@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/absent-retinal-screening---primary.py
+inputModule3:
+  class: File
+  path: python/indirect-retinal-screening---primary.py
+inputModule4:
+  class: File
+  path: python/retinal-screening-fundoscopy---primary.py
+inputModule5:
+  class: File
+  path: python/maculopathy-retinal-screening---primary.py
+inputModule6:
+  class: File
+  path: python/retinal-screening-photography---primary.py
+inputModule7:
+  class: File
+  path: python/abnormal-retinal-screening---primary.py
+inputModule8:
+  class: File
+  path: python/retinal-screening---primary.py
+inputModule9:
+  class: File
+  path: python/proliferative-retinal-screening---primary.py
+inputModule10:
+  class: File
+  path: python/retinal-screening-haemorrhage---primary.py
+inputModule11:
+  class: File
+  path: python/retinopathy-retinal-screening---primary.py
+inputModule12:
+  class: File
+  path: python/right-retinal-screening---primary.py
+inputModule13:
+  class: File
+  path: python/retinal-screening-inspection---primary.py
+inputModule14:
+  class: File
+  path: python/retina---primary.py
+inputModule15:
+  class: File
+  path: python/retinal-screening-retinoscopy---primary.py
+inputModule16:
+  class: File
+  path: python/retinal-screening-treated---primary.py
+inputModule17:
+  class: File
+  path: python/assessable-retinal-screening---primary.py
+inputModule18:
+  class: File
+  path: python/retinal-screening-background---primary.py
+inputModule19:
+  class: File
+  path: python/retinal-screening-photocoagulation---primary.py
+inputModule20:
+  class: File
+  path: python/retinal-screening-oedema---primary.py
+inputModule21:
+  class: File
+  path: python/retinal-screening-fundu---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
